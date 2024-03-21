@@ -1,4 +1,4 @@
-def inversion(string):
+def reverse(string):
 
     i = 0
     k = len(string) - 1
