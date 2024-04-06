@@ -12,5 +12,5 @@ def reverse(string):
     return temp
 
 myString = "I love Python"
-print(inversion(myString))
+print(reverse(myString))
 
